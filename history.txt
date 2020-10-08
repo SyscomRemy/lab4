@@ -1,0 +1,1000 @@
+  208  cd ..
+  209  mkdir archive
+  210  ls
+  211  cp pwd
+  212  ls
+  213  rm archive/
+  214  ls
+  215  cd ..
+  216  ls
+  217  mkdir archive
+  218  ls
+  219  cd la
+  220  cd lab3
+  221  ls
+  222  cd 5AS05-partie3/
+  223  ls
+  224  cd sardar
+  225  ls
+  226  cd ..
+  227  ls
+  228  mv sardar3.txt sardar
+  229  ls
+  230  cd sardar
+  231  ls
+  232  ls 
+  233  mv sardar3.txt /
+  234  mv sardar3.txt ./
+  235  cd
+  236  ls
+  237  cd Desktop/
+  238  ls
+  239  cd lab3
+  240  ls
+  241  cd 5
+  242  CD 5AS05-partie3/
+  243  ls
+  244  cd 5AS05-partie3/
+  245  ls
+  246  cd sardar/
+  247  ls
+  248  mv sardar3.txt 
+  249  mv sardar3.txt Desktop
+  250  cd
+  251  cd Desktop
+  252  ls
+  253  cd lab3
+  254  cd 5AS05-partie3/
+  255  cd sardar/
+  256  ls
+  257  mv Desktop sardar3.txt
+  258  ls
+  259  mv sardar3.txt Desktop
+  260  mv Desktop sardarar3.txt
+  261  ls
+  262  cd 
+  263  ls
+  264  cd Desktop/
+  265  cd lab3
+  266  cd 5AS05-partie3/
+  267  ls
+  268  cd sar
+  269  cd sardar
+  270  ls
+  271  mv sardar3.txt /Desktop
+  272  mv sardar3.txt home/Desktop
+  273  cd ..
+  274  cd /
+  275  cd Desktop
+  276  ls
+  277  cd home
+  278  ls
+  279  cd bardiau
+  280  ls
+  281  cd Desktop
+  282  cd ~
+  283  ls
+  284  cd Desktop/
+  285  cd lab3
+  286  cd 5AS05-partie3/
+  287  ls
+  288  cd sardar
+  289  ls
+  290  mv sardar3.txt /
+  291  mv sardar3.txt ./
+  292  mv sardar3.txt ~
+  293  mv sardar3.txt /~
+  294  mv sardar3.txt .~
+  295  mv sardar3.txt home
+  296  ls
+  297  mv sardar3.txt lab3
+  298  mv sardarar3.txt sardar3.txt
+  299  ls
+  300  mv sardar3.txt ~
+  301  ls
+  302  cd ~
+  303  ls
+  304  cd Desktop/
+  305  ls
+  306  cp pwd archive
+  307  cp 'pwd' archive/
+  308  ln -s /sardar liensymb
+  309  ln -s /pwd liensym
+  310  ln -s pwd liensym
+  311  ln -s pwd liensym2
+  312  cp RT pwd archive
+  313  cp -RT pwd archive
+  314  cp -RT /pwd archive
+  315  ls
+  316  cd lab3
+  317  cd 5AS05-partie3/
+  318  cd sardar/
+  319  ls
+  320  rm sardar2.txt 
+  321  cd ~
+  322  cd Desktop/
+  323  ls
+  324  cd lab3
+  325  cd 5AS05-partie3/
+  326  cd sardar/
+  327  ls
+  328  vim sardar1.txt 
+  329  cd Desktop/
+  330  ls
+  331  cd lab3
+  332  ls
+  333  cd 5AS05-partie3/
+  334  ls
+  335  cd * archive
+  336  cp * archive
+  337  cp .* archive
+  338  cp ls archive
+  339  cp pwd archive
+  340  cp -r 5AS05-partie3 archive
+  341  cp -r Desktop/lab3/5AS05-partie3 archive
+  342  cd ..
+  343  cp -r 5AS05-partie3/ archive
+  344  ls
+  345  cd 5AS05-partie3/
+  346  ls
+  347  cd ..
+  348  cd Desktop/lab3/5AS05-partie3/ archive
+  349  cp Desktop/lab3/5AS05-partie3/ archive
+  350  cp 5AS05-partie3/ archive/
+  351  cp -r 5AS05-partie3/ archive/
+  352  cd ..
+  353  ls
+  354  cd archive/
+  355  ln -s sardar sardarlink
+  356  ls
+  357  cd ..
+  358  cd lab3
+  359  cd 5AS05-partie3/
+  360  cd sardar/
+  361  ls
+  362  vim sardar1.txt 
+  363  touch sardar2.txt
+  364  ls
+  365  ln -s sardar sardarlink
+  366  cd ..
+  367  cd..
+  368  cd ..
+  369  cd..
+  370  cd 
+  371  ls Desktop/
+  372  ls
+  373  cd Desktop
+  374  ls
+  375  cd archive
+  376  ls
+  377  ln-s sardar sardarlink
+  378  ln -s sardar sardarlink
+  379  ls
+  380  cd..
+  381  cd lab3
+  382  cd ..
+  383  cd lab3
+  384  cd 5AS05-partie3/
+  385  cd sardar/
+  386  ls
+  387  rm sardar2.txt 
+  388  ls
+  389  cd 
+  390  cd Desktop
+  391  ls
+  392  cd archive/
+  393  ls
+  394  cd 00
+  395  cd ..
+  396  cd lab3
+  397  cd 5AS05-partie3/
+  398  ls
+  399  cd sardar/
+  400  ls
+  401  touch sardar2.txt
+  402  ls
+  403  cd
+  404  cd Desktop/
+  405  ls
+  406  cd archive/
+  407  ls
+  408  ln -s sardar/ sardarlink
+  409  ls
+  410  ls -n ~/Desktop/lab3/5AS05-partie3/sardar/ sardarlink
+  411  ls -n /Desktop/lab3/5AS05-partie3/sardar/ sardarlink
+  412  ls -n /5AS05-partie3/sardar/ sardarlink
+  413  ls -n /sardar sardarlinl
+  414  cd ..
+  415  ls
+  416  ls -n lab3 lab3link
+  417  ls -n lab3 lab3
+  418  ls -n lab32 lab3
+  419  ls -n lab3 saradar1.txt link
+  420  ls
+  421  ls-n /sardar sardarlink
+  422  ls -n /sardar sardarlink
+  423  ls -s /sardar sardarlink
+  424  ls -s "/sardar" sardarlink
+  425  cd lab3/
+  426  cd 5AS05-partie3/
+  427  cd sardar/
+  428  vim
+  429  vim sardar1.txt 
+  430  stat sardar1.txt 
+  431  chmod 777 sardar1.txt 
+  432  stat sardar1.txt 
+  433  cd ..
+  434  tar jtvf archivefile.tar.bz2 /Desktop/lab3/5AS05-partie3
+  435  cd 5AS05-partie3/
+  436  pwd
+  437  tar jtvf archivefile.tar.bz2 /home/bardiau/Desktop/lab3/5AS05-partie3
+  438  tar -jtvf archivefile.tar.bz2 /home/bardiau/Desktop/lab3/5AS05-partie3
+  439  tar jtvf 5AS05-partie3.tar.bz2 /home/bardiau/Desktop/lab3/5AS05-partie3
+  440  tar jtvf /home/bardiau/Desktop/lab3/5AS05-partie3/5AS05-partie3.tar.bz2 /home/bardiau/Desktop/lab3/5AS05-partie3
+  441  cd
+  442  cd Desktop/
+  443  mkdir lab4
+  444  cd lab4
+  445  touch CR-lab4
+  446  clone https://github.com/khachicha/5AS05-partie4.git
+  447  git clone url https://github.com/khachicha/5AS05-partie4.git
+  448  git clone https://github.com/khachicha/5AS05-partie4.git
+  449  history
+  450  touch history.txt
+  451  history
+  452  cd history
+  453  cp history
+  454  cp history histoy.txt
+  455  history > history
+  456  history > history.txt
+  457  vim history.txt
+  458  pwd
+  459  cat /home/bardiau/Desktop/lab4
+  460  cat /home/bardiau/Desktop/lab3/5AS05-partie3/sardar/* sardar_power.txt
+  461  ls
+  462  cd 5AS05-partie4/
+  463  ls
+  464  cd sardar
+  465  ls
+  466  ls -d .*
+  467  cd ..
+  468  ls
+  469  cd sardar 
+  470  touch sardar_power.txt
+  471  cat /home/bardiau/Desktop/lab3/5AS05-partie3/sardar/* sardar_power.txt
+  472  vim sardar_power.txt 
+  473  cat /home/bardiau/Desktop/lab3/5AS05-partie3/sardar/* > sardar_power.txt
+  474  vim sardar_power.txt 
+  475  wc -l sardar_power.txt
+  476  wc -w sardar_power.txt
+  477  grep l singh sardar_power.txt 
+  478  grep singh sardar_power.txt 
+  479  rm sardar_power.txt 
+  480  grep -r sardar
+  481  grep -r singh
+  482  grep -r Singh
+  483  grep -i singh
+  484  cd Desktop/
+  485  cd lab2
+  486  ls
+  487  cd ..
+  488  cd lab3
+  489  ls
+  490  cd 5AS05-partie3/
+  491  ls
+  492  cd sardar
+  493  ls
+  494  tail -20 sardar2.txt 
+  495  vim sardar2.txt 
+  496  vim sardar1.txt 
+  497  tail -2 sardar1.txt 
+  498  tail -4 sardar1.txt 
+  499  tail -8 sardar1.txt 
+  500  tail -9 sardar1.txt 
+  501  grep -inw * 'money' 
+  502  grep -inw * -e  'money' 
+  503  grep -inw .* -e  'money' 
+  504  grep -inw * -e  'money' 
+  505  grep -inw *  'money' 
+  506  grep -inw * -e  'money' 
+  507  cd 
+  508  cd Desktop/
+  509  cd lab2
+  510  ls
+  511  cd ~
+  512  cd Desktop/
+  513  touch liensdépos.txt
+  514  cat liensdépos.txt 
+  515  vim liensdépos.txt 
+  516  cat liensdépos.txt 
+  517  cd Desktop/
+  518  cd lab2
+  519  ls
+  520  cat > test
+  521  vim test
+  522  rm test
+  523  cat > test
+  524  ls
+  525  ls -a .txt
+  526  rm test
+  527  git satus
+  528  git status
+  529  git diff
+  530  git status
+  531  git add CR-lab2
+  532  git status2 'TP
+  533  git commit -m CR-lab2 "Compte rendu TP2"
+  534  git commit -m  "TP2"
+  535  rm lab2/
+  536  rmdir lab2/
+  537  cd lab2/
+  538  ls -d .*
+  539  cd ..
+  540  ls
+  541  sudo rm lab2/
+  542  rm -r lab2/
+  543  ls
+  544  git  remote add origin https://github.com/SyscomRemy/lab2
+  545  git push -u origin master
+  546  git  remote add origin https://github.com/SyscomRemy/lab2.git
+  547  git push CR-lab2
+  548  git push
+  549  git push CR-lab2
+  550  git stztus
+  551  git status
+  552  git push lab2
+  553  git init
+  554  git status
+  555  git push lab2
+  556  git init lab2
+  557  git status
+  558  rm -r lab2
+  559  git status
+  560  git push lab2
+  561  git add /lab2/CR-lab2.txt
+  562  git add /CR-lab2.txt
+  563  git push origin lab2
+  564  git push origin master/lab2
+  565  git status
+  566  git push origin lab2
+  567  git push origin master/lab2
+  568  git push origin master
+  569  git checkout
+  570  git checkout testing
+  571  git checkout master
+  572  git status
+  573  git checkout lab2.1
+  574  git branch
+  575  git head
+  576  git branch
+  577  git -r lab2
+  578  git checkout -b lab3
+  579  git banch
+  580  git branch
+  581  git checkout -b lab2
+  582  git status
+  583  git commit CR-lab2 
+  584  gitt add CR-lab2 
+  585  git add CR-lab2 
+  586  git remote add lab2 https://github.com/SyscomRemy/lab2.git
+  587  git status
+  588  git chekout
+  589  git checkout
+  590  git commit -a -m CR-lab2 
+  591  git status
+  592  git commit -a -m "CR-lab2.txt" 
+  593  git branch -D lab3
+  594  gir branch
+  595  git branch
+  596  git branch -D lab2
+  597  git fetch
+  598  cd D
+  599  cd Desktop/
+  600  cd lab2
+  601  git branch
+  602  git switch master
+  603  git status
+  604  git branch -D lab2
+  605  git branch
+  606  git directory lab2
+  607  git remote -V
+  608  git remote -v
+  609  git log
+  610  git log -1
+  611  git remote show lab2
+  612  git remote show lab2.1
+  613  git add CR-lab2.txt
+  614  git init
+  615  git config
+  616  git status
+  617  git add CR-lab2
+  618  git status
+  619  git commit -m "20:39"
+  620  git push -u origin lab2
+  621  git push -u origin master
+  622  git remote add origin https://github.com/SyscomRemy/lab2.git
+  623  git add origin https://github.com/SyscomRemy/lab2.git
+  624  git add https://github.com/SyscomRemy/lab2.git
+  625  git status
+  626  cd ..
+  627  cd lab3
+  628  git init
+  629  git status
+  630  git add 
+  631  git add 5AS05-partie3/
+  632  git CR-lab3
+  633  git add CR-lab3 
+  634  git status
+  635  git rm 5AS05-partie3/
+  636  git commit -m "TP3"
+  637  git remote add origin https://github.com/SyscomRemy/lab3.git
+  638  git push -u origin master
+  639  git pull
+  640  git push -u origin lab3
+  641  cd ..
+  642  cd lab2
+  643  git init
+  644  git status
+  645  git add CR-lab2 
+  646  git status
+  647  git commit 
+  648  git remote add origin https://github.com/SyscomRemy/Lab2/treemain
+  649  git remote add origin https://github.com/SyscomRemy/Lab2.git
+  650  git remote set url origin https://github.com/SyscomRemy/Lab2.git
+  651  git remote set-url origin https://github.com/SyscomRemy/Lab2.git
+  652  git remote add origin https://github.com/SyscomRemy/Lab2.git
+  653  git push -u origin master
+  654  git remote add lab2 https://github.com/SyscomRemy/Lab2.git
+  655  git status
+  656  cd ..
+  657  ls
+  658  cd ~
+  659  cd Desktop/
+  660  ls
+  661  mkdir lab2
+  662  cat > bardiau
+  663  ls
+  664  rm bardiau 
+  665  ls
+  666  cd lab2
+  667  cat > bardiau
+  668  ls
+  669  git init
+  670  git status
+  671  git add bardiau 
+  672  git status
+  673  cat bardiau 
+  674  vim bardiau 
+  675  git status
+  676  git add bardiau 
+  677  git status
+  678  git commit -m "Première capture des fichiers"
+  679  git status
+  680  git log 
+  681  cat > CR-lab2
+  682  ls
+  683  vim CR-lab2 
+  684  git status
+  685  git add CR-lab2 
+  686  git status
+  687  git commit -m "TP2+CR-lab2"
+  688  git status
+  689  git log
+  690  git remote add origin https://github.com/SyscomRemy/Lab2.git
+  691  git remote -v
+  692  git status
+  693  git push -u origin master
+  694  git pull
+  695  git push -u origin master
+  696  git status
+  697  git pull (--rebase)
+  698  git pull --rebase
+  699  git pull origin master
+  700  git status
+  701  git pull
+  702  git push -f origin FixForBug
+  703  git push -u origin master
+  704  git push -f 
+  705  git push --set-upstream origin master
+  706  git remote add lab2 https://github.com/SyscomRemy/Lab2.git
+  707  git status
+  708  git push -u lab2 master
+  709  git pull https://github.com/SyscomRemy/Lab2.git master
+  710  git pull 
+  711  git fetch
+  712  git remote add origin https://github.com/SyscomRemy/Lab2.git
+  713  git branch
+  714  git remote -v
+  715  git push -u origin master
+  716  git remote add origin https://github.com/SyscomRemy/lab2.git
+  717  git push -u origin main
+  718  git commit
+  719  git push -u origin main
+  720  cd ~
+  721  cd Desktop/
+  722  mkdir lab2
+  723  cd lab2
+  724  cat > bardiau
+  725  git init 
+  726  git status
+  727  git add bardiau
+  728  git status
+  729  git commit -m "Premier commit"
+  730  git status
+  731  it remote add origin https://github.com/SyscomRemy/lab2.git
+  732  git remote add origin https://github.com/SyscomRemy/lab2.git
+  733  git remote -v
+  734  git push -u origin master
+  735  git status
+  736  cat > CR-lab2
+  737  git status
+  738  git add CR-lab2 
+  739  git status
+  740  git commit -m "TP2+CR-lab2"
+  741  git push
+  742  git pull
+  743  git push
+  744  ls
+  745  git status
+  746  git add CR-lab2 
+  747  git status
+  748  git commit -m "TP2 + CR-lab2"
+  749  git push 
+  750  cd ..
+  751  mkdir lab3
+  752  git clone https://github.com/khachicha/5AS05-partie3.git
+  753  ls
+  754  rm 5AS05-partie3/
+  755  ls
+  756  rm -r 5AS05-partie3/
+  757  ls
+  758  cd lab3
+  759  ls
+  760  git clone https://github.com/khachicha/5AS05-partie3.git
+  761  ls
+  762  cd 5AS05-partie3/
+  763  ls
+  764  cd ..
+  765  cat > CR-lab3
+  766  cat CR-lab3 
+  767  ls
+  768  cd 5AS05-partie3/
+  769  ls
+  770  ls -lrt
+  771  ls
+  772  cd sardar
+  773  ls
+  774  ls -lrt
+  775  cd ..
+  776  du Microsoft 
+  777  du -h  Microsoft 
+  778  ls -lrt Microsoft 
+  779  stat Microsoft 
+  780  ls -a
+  781  ls -a .*
+  782  ls -d .*
+  783  ls -lart
+  784  du -sk* | sort -kln
+  785  du -sk * | sort -kln
+  786  du -sk | sort -kln
+  787  du -sk * | sort -rn
+  788  du -sk * | sort -krn
+  789  du -sk * | sort -kln
+  790  du -sk * | sort -ln
+  791  du -sk * | sort -kn
+  792  du -sk * | sort -rn
+  793  du -sk * | sort rn
+  794  du -sk * | sort -kln
+  795  du -sk * | sort n
+  796  du -sk * | sort -n
+  797  cat answering-machine.txt 
+  798  less answering-machine.txt 
+  799  vim answering-machine.txt 
+  800  ls
+  801  cd sardar
+  802  tail -20 sardar3.txt
+  803  vim sardar3.txt 
+  804  tail -20 sardar3.txt
+  805  grep trust Microsoft
+  806  cd ..
+  807  ls
+  808  grep trust Microsoft
+  809  vim Microsoft 
+  810  grep money *
+  811  grep -d money .*
+  812  grep -d money *
+  813  grep money -d .*
+  814  grep money -d *
+  815  grep money *
+  816  Money
+  817  ls -d .*
+  818  mv .lightbulb lightbulb
+  819  ls
+  820  cd sardar/
+  821  ls
+  822  pwd
+  823  ls
+  824  mv sardar3.txt ..
+  825  ls
+  826  cd ..
+  827  ls
+  828  mkdir archive
+  829  ls
+  830  rm archive/
+  831  rm -r archive
+  832  ls
+  833  cd ..
+  834  mkdir archive
+  835  cd archive
+  836  pwd
+  837  cd ..
+  838  cd 5AS05-partie3/
+  839  cp * /home/bardiau/Desktop/lab3/archive
+  840  cd ..
+  841  cd archive/
+  842  ls
+  843  cd ..
+  844  rm -r archive/
+  845  ls
+  846  mkdir archive
+  847  cd 5AS05-partie3/
+  848  cp -r * /home/bardiau/Desktop/lab3/archive
+  849  cd ..
+  850  cd archive/
+  851  ls
+  852  cd sardar/
+  853  ls
+  854  cd ..
+  855  ln -s sardar sardarlink
+  856  ls
+  857  rm sardarlink
+  858  ls
+  859  ls -n sardar/* sardarlink
+  860  ls -rn sardar/* sardarlink
+  861  ls -rn sardar/sarar1.txt sardarlink
+  862  cd sardar
+  863  pwd
+  864  ls -n /home/bardiau/Desktop/lab3/archive/sardar/sardar1.txt sardar1link
+  865  ls -n /home/bardiau/Desktop/lab3/archive/sardar/sardar1.txt /home/bardiau/Desktop/lab3/archive/sardar1link
+  866  ls -rn /home/bardiau/Desktop/lab3/archive/sardar/sardar1.txt /home/bardiau/Desktop/lab3/archive/sardar1link
+  867  ls
+  868  cd Desktop/
+  869  cd lab4
+  870  ls
+  871  cd ..
+  872  cd lab3
+  873  ls
+  874  cd archive/
+  875  ls
+  876  cd sardar/
+  877  ls
+  878  ls -n sardar1.txt  link1
+  879  ls -n sardar1.txt link1
+  880  ls -n sardar1 link1
+  881  pwd
+  882  ls -n /home/bardiau/Desktop/lab3/archive/sardar/sardar11.txt sardar1
+  883  cd ..
+  884  ln -s /home/bardiau/Desktop/lab3/5AS05-partie3/sardar/sardar1.txt link1
+  885  ls
+  886  ln -s /home/bardiau/Desktop/lab3/5AS05-partie3/sardar/sardar2.txt link2
+  887  ls
+  888  rm link1
+  889  rm link2
+  890  ls
+  891  ln -s /home/bardiau/Desktop/lab3/5AS05-partie3/sardar/* link
+  892  ln -s /home/bardiau/Desktop/lab3/5AS05-partie3/sardar/sardar1.txt link1
+  893  ln -s /home/bardiau/Desktop/lab3/5AS05-partie3/sardar/sardar2.txt link2
+  894  ln -s /home/bardiau/Desktop/lab3/5AS05-partie3/sardar sardarlink
+  895  ls
+  896  cd ..
+  897  cd 5AS05-partie3/
+  898  cd sardar/
+  899  ls
+  900  rm sardar2.txt 
+  901  ls
+  902  cd ..
+  903  cd archive/
+  904  ls
+  905  cd link1
+  906  cd ..
+  907  cd 5AS05-partie3/
+  908  cd sardar/
+  909  ls
+  910  vim
+  911  ls
+  912  vim sardar1.txt 
+  913  cd ..
+  914  cd archive/
+  915  ls
+  916  cd sardar
+  917  ls
+  918  vim sardar1.txt 
+  919  cd ..
+  920  cd 5AS05-partie3/
+  921  cd sardar/
+  922  ls 
+  923  ls -lrt *
+  924  vim sardar1.txt 
+  925  ls -lrt *
+  926  chmod 777 sardar1.txt 
+  927  ls -lrt *
+  928  cd ..
+  929  tar jtvf archive.tar.bz2 
+  930  tar jtvf archive.tar.bz2 /home/bardiau/Desktop/lab3/5AS05-partie3
+  931  tar -jtvf archive.tar.bz2 
+  932  tar -jtvf archive.tar.bz2 pwd
+  933  cd ..
+  934  cd 5AS05-partie3/
+  935  pwd
+  936  tar -jtvf archive.tar.bz2 /home/bardiau/Desktop/lab3/5AS05-partie3
+  937  tar -cjtvf archive.tar.bz2 /home/bardiau/Desktop/lab3/5AS05-partie3
+  938  ls
+  939  tar -jtvf archive.tar.bz2 /home/bardiau/Desktop/lab3/5AS05-partie3
+  940  tar -jtvf archive.tar.bz2
+  941  tar jtvf archive.tar.bz2
+  942  cd ..
+  943  tar jcvf archive.tar.bz2 5AS05-partie3/
+  944  ls
+  945  tar jcvf archive.tar.bz2 5AS05-partie3
+  946  ls
+  947  tar -tf archive
+  948  tar -tf archive.tar.bz2
+  949  tar -tvf archive.tar.bz2
+  950  lesspipe archive.tar.bz2
+  951  ls archive.tar.bz2
+  952  tar -tvf archive.tar.bz2
+  953  gunzip -c archive.tar.gz | tar -tf 
+  954  gunzip -c archive.tar.bz2 | tar -tf 
+  955  guntar -c archive.tar.bz2 | tar -tf 
+  956  tar -tf archive.tar.bz2
+  957  cd De
+  958  cd Desktop/
+  959  cd lab3
+  960  ls
+  961  git remote -v
+  962  git init
+  963  git status
+  964  git add
+  965  git add *
+  966  git status
+  967  git add 5AS05-partie3/
+  968  git status
+  969  git add 5AS05-partie3/
+  970  git status
+  971  git remote -v
+  972  git commit -m "TP3 + CR-lab3"
+  973  git status
+  974  git add 5AS05-partie3/
+  975  git status
+  976  git remote add origin https://github.com/SyscomRemy/lab3.git
+  977  git push -u origin main
+  978  git push -u origin master
+  979  git pull
+  980  cd ..
+  981  rm -r lab4
+  982  ls
+  983  mkdir lab4
+  984  touch CR-lab4
+  985  rm CR-lab4
+  986  cd lab4
+  987  touch CR-lab4
+  988  git clone https://github.com/khachicha/5AS05-partie4.git
+  989  ls
+  990  cd 5AS05-partie4/
+  991  ls
+  992  history
+  993  history > history.txt
+  994  ls
+  995  cat history.txt 
+  996  vim sardar_
+  997  ls
+  998  cd sardar
+  999  ls
+ 1000  cd ..
+ 1001  cat /home/bardiau/Desktop/lab3/5AS05-partie3/sardar/* > sardar_power.txt
+ 1002  ls
+ 1003  cd sardar/
+ 1004  ls
+ 1005  cd ..
+ 1006  ls
+ 1007  vim sardar_power.txt 
+ 1008  cd sardar
+ 1009  vim sardar1.txt
+ 1010  wc -l sardar1.txt 
+ 1011  wc -l sardar2.txt 
+ 1012  wc -l sardar3.txt 
+ 1013  cd ..
+ 1014  wc -l sardar_power.txt 
+ 1015  cat /home/bardiau/Desktop/lab3/5AS05-partie3/sardar/sardar1.txt | /home/bardiau/Desktop/lab3/5AS05-partie3/sardar/sardar2.txt
+ 1016  cat /home/bardiau/Desktop/lab3/5AS05-partie3/sardar/sardar1.txt | cat /home/bardiau/Desktop/lab3/5AS05-partie3/sardar/sardar2.txt
+ 1017  cat /home/bardiau/Desktop/lab4/5AS05-partie3/sardar/sarar1.txt | /home/bardiau/Desktop/lab4/5AS05-partie3/sardar/sarar2.txt sardar_power.txt 
+ 1018  cat /home/bardiau/Desktop/lab4/5AS05-partie3/sardar/sardar1.txt | /home/bardiau/Desktop/lab4/5AS05-partie3/sardar/sardar2.txt sardar_power.txt 
+ 1019  cd sardar/
+ 1020  ls
+ 1021  pwd
+ 1022  cd ..
+ 1023  ls
+ 1024  cat /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/sardar1.txt /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/sardar2.txt /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/sardar3.txt > sardar_
+ 1025  cat /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/sardar1.txt /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/sardar2.txt /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/sardar3.txt > sardar_power.txt 
+ 1026  vim sardar_power.txt 
+ 1027  rm sardar_power.txt 
+ 1028  cat /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/sardar1.txt /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/sardar2.txt /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/sardar3.txt > sardar_power.txt 
+ 1029  vim sardar_power.txt 
+ 1030  wc -l sardar_power.txt 
+ 1031  wc -w sardar_power.txt 
+ 1032  grep -ri singh sardar_power.txt 
+ 1033  grep -r singh sardar_power.txt 
+ 1034  grep singh sardar_power.txt 
+ 1035  grep -i singh sardar_power.txt 
+ 1036  rm sardar_power.txt 
+ 1037  grep -i singh /sardar/*
+ 1038  cd sard
+ 1039  cd sardar/
+ 1040  pwd
+ 1041  cd ..
+ 1042  grep -i singh /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1043  grep -ic singh /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1044  grep -ic singh santa /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1045  grep -ic singh|santa /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1046  grep -ic singh\|santa /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1047  grep -ic santa /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1048  grep -i santa /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1049  grep -i 'singh|santa' /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1050  grep -ic 'singh|santa' /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1051  grep -ic 'singh\|santa' /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1052  grep -i 'singh\|santa' /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1053  grep -ic singh|grep -ic santa /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1054  grep -i singh|grep -i santa /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1055  grep singh|grep -i santa /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1056  grep singh|grep -ic santa /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1057  grep -ic singh|grep santa /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1058  grep -i singh|grep santa /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1059  grep -i 'singh.*santa'/home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1060  grep -i 'sic singh.*santa'/home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1061  grep -ic singh.*santa /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1062  grep -i singh.*santa /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1063  grep -ic singh.*santa /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1064  grep -ic singh /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1065  grep -ic singh.*santa | grep -v santa /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1066  grep -ic singh.*santa | grep -v banta /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1067  grep -i singh.*santa | grep -v banta /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1068  ld
+ 1069  ls
+ 1070  grep -i singh.*santa\banta /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1071  grep -ic singh.*santa\banta /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1072  grep -ic "singh.*santa\banta" /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1073  grep -i "singh.*santa\banta" /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1074  grep -i "singh.*santa\|banta" /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1075  grep -ic "singh.*santa\|banta" /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1076  grep -ic "singh.*santa|santa.*singh" /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1077  grep -ic "singh.*santa\|santa.*singh" /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1078  grep -i "singh.*santa\|santa.*singh" /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1079  grep -i "singh.*santa\*santa.*singh" /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1080  grep -i "singh.*santa\.*santa.*singh" /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1081  grep -i "singh.*santa\santa.*singh" /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1082  grep -i "singh.*santa\|santa.*singh" /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1083  grep -ic "singh.*santa\|santa.*singh" /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1084  grep -ic "singh.*santa" /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1085  grep -i "singh.*santa" /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1086  grep -i "singh.*santa.*banta" /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/*
+ 1087  ls -d *.txt
+ 1088  cp answering-machine.txt ..
+ 1089  cd ..
+ 1090  ls
+ 1091  rm answering-machine.txt 
+ 1092  ls
+ 1093  cd 5AS05-partie4/
+ 1094  ls
+ 1095  cp answering-machine.txt ../test-commande-locate.txt
+ 1096  cd ..
+ 1097  ls
+ 1098  cd 5AS05-partie4/
+ 1099  locate test-commande-locate.txt
+ 1100  updatedb
+ 1101  locate test-commande-locate.txt
+ 1102  updatedb
+ 1103  updatedb test-commande-locate.txt
+ 1104  updatedb answering-machine.txt 
+ 1105  git diff answering-machine.txt ../lab4/test-commande-locate.txt
+ 1106  git diff answering-machine.txt ../test-commande-locate.txt
+ 1107  git status
+ 1108  cd ..
+ 1109  git remote -v
+ 1110  git init 
+ 1111  git status
+ 1112  git add 
+ 1113  git add *
+ 1114  git status
+ 1115  git commit -m "lab + CR-lab4"
+ 1116  git push 
+ 1117  git remote add origin https://github.com/SyscomRemy/lab4.git
+ 1118  git push -u origin main
+ 1119  git pull
+ 1120  git status
+ 1121  git add 5AS05-partie4/
+ 1122  git status
+ 1123  git push
+ 1124  git fetch
+ 1125  git push
+ 1126  git push --set-upstream origin master
+ 1127  git status 
+ 1128  git pull
+ 1129  git status
+ 1130  ls
+ 1131  cd Desktop/
+ 1132  cd lab4
+ 1133  ls
+ 1134  locate test-commande-locate.txt 
+ 1135  updatedb
+ 1136  sudo apt install updatedb
+ 1137  sudo updatedb
+ 1138  updatedb
+ 1139  locate test-commande-locate.txt 
+ 1140  sudo updatedb
+ 1141  locate test-commande-locate.txt 
+ 1142  ls
+ 1143  cd 5AS05-partie4/
+ 1144  ls
+ 1145  locate
+ 1146  locate answering-machine.txt 
+ 1147  cd ..
+ 1148  locate answering-machine.txt
+ 1149  locate test-commande-locate.txt 
+ 1150  update db
+ 1151  updatedb
+ 1152  sudo updatedb
+ 1153  locate test-commande-locate.txt 
+ 1154  cd 5AS05-partie4/
+ 1155  ls
+ 1156  git diff noyau1.v1 noyau2.v2
+ 1157  diff noyau1.v1 noyau2.v2 > différence
+ 1158  diff noyau.v1 noyau.v2 > différences
+ 1159  ls
+ 1160  vim différences
+ 1161  diff noyau.v1 noyau.v2
+ 1162  ls
+ 1163  rm différence
+ 1164  diff noyau.v1 noyau.v2 > update.patch
+ 1165  ls
+ 1166  rm différences 
+ 1167  ls
+ 1168  cat update.patch 
+ 1169  diff -r noyau.v1 noyau.v2 > update.patch
+ 1170  cat update.patch 
+ 1171  diff noyau.v1 noyau.v2 > update.patch
+ 1172  cat update.patch 
+ 1173  patch update.patch noyau.v1
+ 1174  sudo apt install patch
+ 1175  patch update.patch noyau.v1
+ 1176  patch -i update.patch noyau.v1
+ 1177  diff noyau.v1 noyau.v2
+ 1178  cd ~
+ 1179  cd Desktop/
+ 1180  mkdir lab4
+ 1181  cd lab4
+ 1182  git clone https://github.com/khachicha/5AS05-partie4.git
+ 1183  ls
+ 1184  touch CR-lab4
+ 1185  ls
+ 1186  cat CR-lab4 
+ 1187  history
+ 1188  history > history.txt
+ 1189  ls
+ 1190  cd 5AS05-partie4/
+ 1191  ls
+ 1192  cd sardar
+ 1193  ls
+ 1194  pwd
+ 1195  cd ..
+ 1196  cat /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/sardar1.txt /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/sardar2.txt /home/bardiau/Desktop/lab4/5AS05-partie4/sardar/sardar3.txt > answering-machine.txt 
+ 1197  cd ..
+ 1198  ls
+ 1199  cd ~
+ 1200  cd Desktop/
+ 1201  ls
+ 1202  cd lab4
+ 1203  ls
+ 1204  git clone https://github.com/khachicha/5AS05-partie4.git
+ 1205  ls
+ 1206  history
+ 1207  history > history.txt
