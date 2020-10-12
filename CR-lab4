@@ -63,5 +63,5 @@ les différences sont affichés dans le terminal:
 ________________________________________________________________________________________________
 16)diff noyau.v1 noyau.v2 > update.patch
 Mise à jour du fichier noyau.v1: patch -i update.patch noyau.v1
-test de la mise à jour: diff noyau.v1 noyau.v2 (n'affiche rien donc la maj à bien été effectuée)
+test de la mise à jour: diff noyau.v1 noyau.v2 (n'affiche rien donc la maj à bien été effectuée).
 
