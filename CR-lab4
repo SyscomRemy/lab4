@@ -39,14 +39,11 @@ ________________________________________________________________________________
 
 (on copie le fichier dans lab4 (répertoire parent) avec le nouveau nom)
 
-En faisant locate test-commande-locate.txt, la commande n'est pas trouvée car mlocate n'est pas installée.
-après instalation la commande donne:
-/home/bardiau/Desktop/lab4/test-commande-locate.txt
-
-elle renvoie la postion de la copie.
+En faisant locate la commande n'est pas trouvée car mlocate n'est pas installée.
+après instalation la commande affiche plusieurs fichiers sauf locate test-commande-locate.txt
 ________________________________________________________________________________________________
-14)sudo updatedb, locate test-commande-locate.txt
-update db met à jour la base de donnée de la commande locate.
+14)sudo updatedb, locate 
+update db met à jour la base de donnée de la commande locate et on retrouve bien notre fichier.
 
 ________________________________________________________________________________________________
 15)diff noyau.v1 noyau.v2 
